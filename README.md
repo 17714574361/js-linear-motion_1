@@ -1,0 +1,2 @@
+# js-linear-motion_1
+this is a artical about how to create a motion,it contatains linear motion,buffer motion,reentry motion and accelerated motion
